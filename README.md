@@ -1,7 +1,4 @@
-Absolutely. Below is a **production-grade, senior-level GitHub project description** you can **copy-paste directly** into your repository’s **README.md**.
-This is written to impress **CTOs, Principal Engineers, AI reviewers, and interview panels**.
 
----
 
 # 🌱 GeoPlant AI
 
