@@ -1,6 +1,25 @@
 # Python
 __pycache__/
 *.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Model / cache
+*.pt
+*.pth
+*.bin
+# Python
+__pycache__/
+*.pyc
 *.pyo
 *.pyd
 .env
